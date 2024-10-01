@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Harshita Jaiswal</h1>
 <h3 align="center">A passionate learner with a keen interest to learn and explore about various technological domains.</h3>
 
-- 🔭 I’m currently working on *developing dynamic, responsive and interactive projects..*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-jaiswal-hj&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-jaiswal-hj" /> </p>
 
-- 🌱 I’m currently learning *MERN stack*
+- 🔭 I’m currently working on **developing dynamic, responsive and interactive projects..**
 
-- 👯 I’m looking to collaborate on *Web Development*
+- 🌱 I’m currently learning **MERN stack**
 
-- ⚡ Fun fact *The first computer "bug" was an actual moth🐛 trapped in a computer!In 1947, engineers found a moth trapped in a relay of the Harvard Mark II computer. The term has been used ever since.*
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 📫 How to reach me **jaiswalharshita81@gmail.com**
+
+- ⚡ Fun fact **The first computer "bug" was an actual moth🐛 trapped in a computer in 1947, engineers found a moth trapped in a relay of the Harvard Mark II computer. The term has been used ever since.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/harshita-jaiswal-3842b422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-jaiswal-3842b422b/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jaiswalharshita1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jaiswalharshita1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/harshita_jaiswal_hj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshita_jaiswal_hj/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshita-jaiswal-3842b422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-jaiswal-3842b422b" height="30" width="40" /></a>
+<a href="https://instagram.com/_._.harshita._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.harshita._" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaiswalharshita1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaiswalharshita1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshita_jaiswal_hj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshita_jaiswal_hj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
