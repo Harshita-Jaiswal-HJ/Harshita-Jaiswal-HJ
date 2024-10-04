@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaiswalharshita81@gmail.com**
 
-- ⚡ Fun fact **Debugging code is like being a detective—except you're the one who committed the crime! 🕵️‍♂️💥<br>The first computer "bug" was an actual moth🐛 trapped in a computer in 1947, engineers found a moth trapped in a relay of the Harvard Mark II computer. The term has been used ever since.**
+- ⚡ Fun facts **Debugging code is like being a detective—except you're the one who committed the crime! 🕵️‍♂️💥<br><br>The first computer "bug" was an actual moth🐛 trapped in a computer in 1947, engineers found a moth trapped in a relay of the Harvard Mark II computer. The term has been used ever since.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
