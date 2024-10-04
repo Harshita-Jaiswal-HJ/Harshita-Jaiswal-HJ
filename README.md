@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-jaiswal-hj&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-jaiswal-hj" /> </p>
 
-- 🔭 I’m currently working on **developing dynamic, responsive and interactive projects**
+- 🔭 I’m currently working on **Developing dynamic, Responsive and interactive projects**
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaiswalharshita81@gmail.com**
 
-- ⚡ Fun facts-> <br> **Debugging code is like being a detective—except you're the one who committed the crime! 🕵️‍♂️💥<br>The first computer "bug" was an actual moth🐛 trapped in a computer in 1947, engineers found a moth trapped in a relay of the Harvard Mark II computer. The term has been used ever since.**
+- ⚡ Fun facts-> <br> **<ul><li>Debugging code is like being a detective—except you're the one who committed the crime! 🕵️‍♂️💥<br><li>The first computer "bug" was an actual moth🐛 trapped in a computer in 1947, engineers found a moth trapped in a relay of the Harvard Mark II computer. The term has been used ever since.</ul>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
