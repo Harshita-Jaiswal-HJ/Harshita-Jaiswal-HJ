@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Jaiswal</h1>
-<h3 align="center">A passionate learner with a keen interest to learn and explore about various technological domains.</h3>
+<h3 align="center">Enthusiastic and versatile learner, eager to explore a wide range of technological fields. Capable of handling projects independently and excelling in collaborative environments, with a diligent and systematic work ethic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-jaiswal-hj&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-jaiswal-hj" /> </p>
 
